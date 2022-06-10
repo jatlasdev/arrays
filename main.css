@@ -1,0 +1,16 @@
+.box {
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    margin: 2%;
+    width: 30%;
+}
+
+.fieldbox {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+}
